@@ -1,6 +1,6 @@
-## Basic react my Hangman app
+## Basic react my Hangman Game app
 
-Play the game! You can always uses (“apple”) as the secret word.
+Play the game!
 
 ### On this project
 
@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## Demo my Hangman app
+## Demo my Hangman Game app
 
-See the link: [To be added]
+See the link: <a href="https://my-hangman-game-app.netlify.app/" target="_blank">My Hangman Game app</a>
